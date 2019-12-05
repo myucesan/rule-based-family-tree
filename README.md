@@ -1,2 +1,2 @@
-# rule-based-family-tree
-# rule-based-family-tree
+# Rule bases family tree
+A work in progress, do not use!
