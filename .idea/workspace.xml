@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3104773a-a2c6-4f4e-89ac-5012763f84c8" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3104773a-a2c6-4f4e-89ac-5012763f84c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Rule-based-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Rule-based-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +25,34 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mustafa Yücesan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenRunner">
     <option name="delegateBuildToMaven" value="true" />
   </component>
   <component name="ProjectId" id="1UUJmLtGRddbsXWxTsWkRXupzWc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -33,18 +63,6 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Rulebased" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -53,6 +71,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -66,5 +96,57 @@
       <updated>1575405397553</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="278" key="#Project_Structure" timestamp="1576011474074">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="362" y="278" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1576011474074" />
+    <state x="648" y="336" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575842764930">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="648" y="336" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1575842764930" />
+    <state x="111" y="216" key="CommitChangelistDialog2" timestamp="1576322293403">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="111" y="216" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322293403" />
+    <state width="918" height="359" key="GridCell.Tab.0.bottom" timestamp="1576322267709">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824307" />
+    <state width="918" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267709" />
+    <state width="918" height="359" key="GridCell.Tab.0.center" timestamp="1576322267708">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824306" />
+    <state width="918" height="359" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267708" />
+    <state width="918" height="359" key="GridCell.Tab.0.left" timestamp="1576322267708">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824305" />
+    <state width="918" height="359" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267708" />
+    <state width="918" height="359" key="GridCell.Tab.0.right" timestamp="1576322267709">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824307" />
+    <state width="918" height="359" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267709" />
+    <state x="616" y="445" key="com.intellij.ide.util.TipDialog" timestamp="1576322140369">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="616" y="430" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1575999580202" />
+    <state x="616" y="445" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1576322140369" />
   </component>
 </project>
