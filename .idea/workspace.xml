@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3104773a-a2c6-4f4e-89ac-5012763f84c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="3104773a-a2c6-4f4e-89ac-5012763f84c8" name="Default Changelist" comment="finishing touches">
+      <change afterPath="$PROJECT_DIR$/pbbs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
@@ -58,6 +57,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
@@ -95,6 +99,28 @@
       <option name="presentableId" value="Default" />
       <updated>1575405397553</updated>
     </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1576322305377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576322305377</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished">
+      <created>1576322349743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576322349743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finished">
+      <created>1576322357030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576322357030</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +136,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="362" y="278" key="#Project_Structure" timestamp="1576011474074">
       <screen x="0" y="23" width="1920" height="1177" />
@@ -119,42 +149,137 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="648" y="336" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1575842764930" />
-    <state x="111" y="216" key="CommitChangelistDialog2" timestamp="1576322349620">
+    <state x="111" y="216" key="CommitChangelistDialog2" timestamp="1576326705523">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="111" y="216" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322349620" />
-    <state width="918" height="359" key="GridCell.Tab.0.bottom" timestamp="1576322325127">
+    <state x="111" y="216" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1576326705523" />
+    <state width="918" height="405" key="GridCell.Tab.0.bottom" timestamp="1576326353938">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824307" />
-    <state width="918" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325127" />
-    <state width="918" height="359" key="GridCell.Tab.0.center" timestamp="1576322325126">
+    <state width="918" height="405" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1576326353938" />
+    <state width="918" height="405" key="GridCell.Tab.0.center" timestamp="1576326353937">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824306" />
-    <state width="918" height="359" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325126" />
-    <state width="918" height="359" key="GridCell.Tab.0.left" timestamp="1576322325126">
+    <state width="918" height="405" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1576326353937" />
+    <state width="918" height="405" key="GridCell.Tab.0.left" timestamp="1576326353937">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824305" />
-    <state width="918" height="359" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325126" />
-    <state width="918" height="359" key="GridCell.Tab.0.right" timestamp="1576322325127">
+    <state width="918" height="405" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1576326353937" />
+    <state width="918" height="405" key="GridCell.Tab.0.right" timestamp="1576326353938">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824307" />
-    <state width="918" height="359" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325127" />
+    <state width="918" height="405" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1576326353938" />
+    <state width="918" height="405" key="GridCell.Tab.1.bottom" timestamp="1576326356490">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="918" height="405" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1576326356490" />
+    <state width="918" height="405" key="GridCell.Tab.1.center" timestamp="1576326356490">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="918" height="405" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1576326356490" />
+    <state width="918" height="405" key="GridCell.Tab.1.left" timestamp="1576326356490">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="918" height="405" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1576326356489" />
+    <state width="918" height="405" key="GridCell.Tab.1.right" timestamp="1576326356490">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="918" height="405" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1576326356490" />
     <state x="193" y="335" key="MultipleFileMergeDialog" timestamp="1576322321927">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="193" y="335" key="MultipleFileMergeDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1576322321927" />
-    <state x="80" y="353" key="Vcs.Push.Dialog.v2" timestamp="1576322307926">
+    <state x="80" y="353" key="Vcs.Push.Dialog.v2" timestamp="1576322359878">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="80" y="353" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322307926" />
+    <state x="80" y="353" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322359878" />
     <state x="616" y="445" key="com.intellij.ide.util.TipDialog" timestamp="1576322140369">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="616" y="430" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1575999580202" />
     <state x="616" y="445" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1576322140369" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>176</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>177</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>179</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>180</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>181</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>182</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>33</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>187</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>186</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>184</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>183</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/cschen1205/java-expert-system-shell/1.0.1/java-expert-system-shell-1.0.1.jar!/com/github/cschen1205/ess/engine/KieRuleInferenceEngine.class</url>
+          <line>175</line>
+          <properties class="com.github.cschen1205.ess.engine.KieRuleInferenceEngine" method="match">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

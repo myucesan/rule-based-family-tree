@@ -56,6 +56,11 @@ public class Main {
         rule.setConsequent(new EqualsClause("relation", "Nibling"));
         rie.addRule(rule);
 
+        rule=new Rule("FakeRule");
+        rule.addAntecedent(new EqualsClause("killer", "yes"));
+        rule.addAntecedent(new EqualsClause("lala", "poo"));
+        rule.setConsequent(new EqualsClause("trilling", "yes"));
+        rie.addRule(rule);
         return rie;
     }
 
@@ -88,7 +93,7 @@ public class Main {
 
         Vector<Clause> unproved_conditions= new Vector<Clause>();
 
-        Clause conclusion=rie.infer("relation", unproved_conditions);
+        Clause conclusion=rie.infer("trilling", unproved_conditions);
 
         System.out.println("Conclusion: "+conclusion);
     }
