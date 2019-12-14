@@ -119,30 +119,38 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="648" y="336" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1575842764930" />
-    <state x="111" y="216" key="CommitChangelistDialog2" timestamp="1576322293403">
+    <state x="111" y="216" key="CommitChangelistDialog2" timestamp="1576322305223">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="111" y="216" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322293403" />
-    <state width="918" height="359" key="GridCell.Tab.0.bottom" timestamp="1576322267709">
+    <state x="111" y="216" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322305223" />
+    <state width="918" height="359" key="GridCell.Tab.0.bottom" timestamp="1576322325127">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824307" />
-    <state width="918" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267709" />
-    <state width="918" height="359" key="GridCell.Tab.0.center" timestamp="1576322267708">
+    <state width="918" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325127" />
+    <state width="918" height="359" key="GridCell.Tab.0.center" timestamp="1576322325126">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824306" />
-    <state width="918" height="359" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267708" />
-    <state width="918" height="359" key="GridCell.Tab.0.left" timestamp="1576322267708">
+    <state width="918" height="359" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325126" />
+    <state width="918" height="359" key="GridCell.Tab.0.left" timestamp="1576322325126">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824305" />
-    <state width="918" height="359" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267708" />
-    <state width="918" height="359" key="GridCell.Tab.0.right" timestamp="1576322267709">
+    <state width="918" height="359" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325126" />
+    <state width="918" height="359" key="GridCell.Tab.0.right" timestamp="1576322325127">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="359" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1576250824307" />
-    <state width="918" height="359" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1576322267709" />
+    <state width="918" height="359" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1576322325127" />
+    <state x="193" y="335" key="MultipleFileMergeDialog" timestamp="1576322321927">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="193" y="335" key="MultipleFileMergeDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1576322321927" />
+    <state x="80" y="353" key="Vcs.Push.Dialog.v2" timestamp="1576322307926">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="80" y="353" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1576322307926" />
     <state x="616" y="445" key="com.intellij.ide.util.TipDialog" timestamp="1576322140369">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
